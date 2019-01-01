@@ -1,0 +1,10 @@
+.env
+.idea
+.Wttd
+*.sqlite3
+*pyc
+__pycache__
+mod-1-28-mapa-da-estrutura-do-eventex.xmind
+mod-1-29-visao-alem-do-alcance.xmind
+google-python-exercises
+__MACOSX
